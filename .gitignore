@@ -1,5 +1,4 @@
 node_modules
 .next
-common
 nats-test
 .env
